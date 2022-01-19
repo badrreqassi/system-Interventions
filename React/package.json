@@ -1,0 +1,83 @@
+{
+  "name": "todolist",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "@fullcalendar/bootstrap": "^5.10.1",
+    "@fullcalendar/core": "^5.10.1",
+    "@fullcalendar/daygrid": "^5.10.1",
+    "@fullcalendar/icalendar": "^5.10.1",
+    "@fullcalendar/interaction": "^5.10.1",
+    "@fullcalendar/list": "^5.10.1",
+    "@fullcalendar/react": "^5.10.1",
+    "@fullcalendar/resource-timeline": "^5.10.1",
+    "@fullcalendar/timegrid": "^5.10.1",
+    "@hookform/resolvers": "^2.8.3",
+    "@mdi/font": "^6.5.95",
+    "@reduxjs/toolkit": "^1.6.2",
+    "@rehooks/local-storage": "^2.4.3",
+    "@testing-library/jest-dom": "^5.15.0",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "@types/react-transition-group": "^4.4.4",
+    "axios": "^0.24.0",
+    "bootstrap": "^5.1.3",
+    "history": "^5.1.0",
+    "javascript-time-ago": "^2.3.10",
+    "jquery": "^3.6.0",
+    "react": "^17.0.2",
+    "react-alert": "^7.0.3",
+    "react-alert-template-basic": "^1.0.2",
+    "react-axios": "^2.0.5",
+    "react-big-calendar": "^0.38.0",
+    "react-bootstrap": "^2.0.1",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.19.1",
+    "react-icons": "^4.3.1",
+    "react-paginate": "^7.1.5",
+    "react-redux": "^7.2.6",
+    "react-router": "^6.0.1",
+    "react-router-dom": "^6.0.2",
+    "react-scripts": "4.0.3",
+    "react-select": "^5.2.1",
+    "react-time-ago": "^7.1.3",
+    "react-timeago": "^6.2.1",
+    "reactjs-alert": "^1.2.7",
+    "recharts": "^2.1.6",
+    "redux": "^4.1.2",
+    "redux-thunk": "^2.4.0",
+    "rxjs": "^7.5.1",
+    "web-vitals": "^1.1.2",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "remote-redux-devtools": "^0.5.16",
+    "sass": "^1.43.4",
+    "sass-loader": "^12.3.0"
+  }
+}

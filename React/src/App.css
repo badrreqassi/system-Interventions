@@ -1,0 +1,116 @@
+#demo {
+  height: 450px;
+  width: 100%;
+  /*background-color: #7ed957;*/
+  background-color: white;
+}
+#imgHeader {
+  width: 100%;
+  height: 450px;
+}
+#Footer {
+  height: 50px;
+  width: 100%;
+  position: absolute;
+  margin-bottom: 0%;
+}
+#section {
+  margin-left: 10%;
+  margin-right: 10%;
+  color: #214069;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+Link {
+  color: #62d2a2;
+}
+#nav {
+  /* background-color: #7ed957;*/
+  background-color: white;
+  border-bottom: 1px solid #214069;
+}
+
+#bodysection {
+  padding: "100px 20px";
+  height: 250px;
+  color: black;
+  background-color: #d7fbe8;
+}
+/*
+ Css Forms
+*/
+#saveBtn {
+  position: absolute;
+  margin-top: 30px;
+  bottom: 5%;
+  right: 5%;
+  width: 150px;
+}
+#cancleBtn {
+  position: absolute;
+  margin-top: 30px;
+  bottom: 5%;
+  right: 25%;
+  width: 150px;
+}
+#rightPart {
+  right: 0%;
+}
+#leftPart {
+  left: 0%;
+}
+
+#leftPart,
+#rightPart {
+  position: absolute;
+  margin-top: 70px;
+  width: 40%;
+}
+
+#inputPrfile {
+  width: 70%;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+#labelPrfile {
+  margin-left: 20px;
+}
+#buttomPart {
+  position: absolute;
+  width: 40%;
+  bottom: 15%;
+}
+
+#td_btn {
+  position: relative;
+  width: 100%;
+}
+#btn {
+  width: 80px;
+  margin-right: 5px;
+}
+
+#btnRefresh {
+  border: 0;
+  background: none;
+  width: 150px;
+  margin-bottom: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 80%;
+}
+
+#sideBar {
+  width: 20%;
+  height: fit-content;
+  position: absolute;
+  top: 15%;
+  left: 50px;
+}
+#main {
+  position: relative;
+}
+#divForm {
+  border: #aaaaaa solid 0.5px;
+  padding: 10px;
+}
